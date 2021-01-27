@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  capital-back:
+    image: back
+    build:
+      context: ./back/
+    env_file: ./.env
+    ports:
+      - "${DOCKER_BACK_PORT}:8000"
+
+  capital-front:
+    image: front
+    build:
+      context: ./front/
+    ports:
+      - "${DOCKER_FRONT_PORT}:80"

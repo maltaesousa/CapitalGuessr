@@ -1,0 +1,84 @@
+#map {
+  height: 85%;
+  width: 100%;
+  border-style: solid;
+  border-color: #2c2c54;
+}
+
+/*barre du timer*/
+#pbar {
+  height: 1.5%;
+  width: 95%;
+  background-color: rgb(223, 225, 230);
+}
+
+#container_jeu {
+  height: 80%;
+  width: 100%;
+}
+
+/* ----- MOREL ----- */
+
+body {
+  background-color: #d1ccc0 !important;
+}
+
+table {
+  background-color: #60a3bc !important;
+}
+
+h2 {
+  padding: 10pt;
+  color: #2c2c54 !important;
+}
+
+div.style-km {
+  font-size: 20pt;
+  text-align: center;
+}
+
+.style-km {
+  font-family: "Lucida Handwriting", cursive;
+  color: #2c2c54;
+  padding: 10pt;
+}
+
+h3 {
+  font-family: "Lucida Handwriting", cursive !important;
+  color: #2c2c54 !important;
+  font-size: 18pt;
+}
+
+.data-get {
+  background-color: gainsboro;
+  min-height: 50px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#container_ima img {
+  width: 100%;
+  border-radius: 10pt;
+}
+
+#bouton {
+  background-color: #EA2027;
+  border-style: solid;
+  margin-top: auto;
+  border-color: #2c2c54;
+}
+
+#boutonHOME, #start, #new_game {
+  background-color: #EA2027;
+  position:absolute;
+  top: 30%;
+  bottom: 30%;
+  border-style: solid;
+  margin-top: auto;
+  border-color: #2c2c54;
+}
+
+#centre {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
