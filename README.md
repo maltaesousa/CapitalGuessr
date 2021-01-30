@@ -1,6 +1,6 @@
 # CapitalGuessr
 
-This game was made by Kilian Morel and Dylan Béguin students in GIS classes at HEIG-VD, Yverdon-les-Bains.
+This game was made by Kilian Morel and Dylan Béguin both students in GIS classes at HEIG-VD, Yverdon-les-Bains.
 
 # Getting started
 
