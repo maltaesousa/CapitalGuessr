@@ -1,4 +1,4 @@
-let url = "http://localhost:8001";
+let url = "http://localhost/capitales_back";
 
 //Bouton Nouvelles partie
 $("#bouton").click(function(event){

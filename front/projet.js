@@ -1,6 +1,6 @@
 //Projet SIG3 - Jeu de capitales
 //réalisé par Dylan Béguin et Kilian Morel
-//rendu le 20.01.2012
+//rendu le 20.01.2021
 
 const vectorLayer = new ol.layer.Vector({
 });
@@ -289,7 +289,7 @@ function createNewGame() {
 }
 
 //déclaration de l'url
-let url = "http://localhost:8001";
+let url = "http://localhost/capitales_back";
 console.log(url)
 
 //demande des informations sur la nouvelle partie (idgame, idquestion, cityname)
